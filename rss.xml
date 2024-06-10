@@ -4,14 +4,14 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 17:25:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 18:58:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
         <item>
             <title><![CDATA[Connaissance du Cours]]></title>
             <guid>95f27e3941a445baaf24d6d90eb156a3</guid>
             <pubDate>Mon, 10 Jun 2024 17:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[<h3 id="questions-de-cours-sur-les-séries-entières">Questions de cours sur les séries entières.</h3>
+            <content:encoded><![CDATA[<h1 id="questions-de-cours-sur-les-séries-entières">Questions de cours sur les séries entières.</h1>
 <ul>
 <li>Qu’est-ce qu’une série entière ? Pouvez-vous donner une définition ?</li>
 <li>Quelle est la différence entre une série entière et une série de puissances ?</li>
@@ -21,6 +21,17 @@
 <li>Qu’est-ce que la formule de Cauchy ? Comment est-elle utilisée dans le contexte des séries entières ?</li>
 <li>Comment peut-on déterminer si une série entière converge ou diverge ?</li>
 <li>Qu’est-ce que la série de Taylor ? Comment est-elle liée aux séries entières ?</li>
+</ul>
+<h1 id="questions-de-cours-sur-les-équations-différentielles">Questions de cours sur les équations différentielles</h1>
+<ul>
+<li>Qu’est-ce qu’une équation différentielle scalaire d’ordre 2 à coefficients continus ?</li>
+<li>Comment définir l’existence et l’unicité de la solution d’un problème de Cauchy ?</li>
+<li>Qu’est-ce que l’espace vectoriel des solutions de l’équation homogène ?</li>
+<li>Comment décrire l’ensemble des solutions de l’équation à partir d’une solution particulière et des solutions de l’équation homogène associée ?</li>
+<li>Quels sont les exemples de recherches de solutions développables en série entière ?</li>
+<li>Comment résoudre une équation homogène lorsqu’on connaît une solution qui ne s’annule pas ?</li>
+<li>Qu’est-ce que le théorème de Cauchy linéaire ?</li>
+<li>Comment définir le principe de superposition des solutions ?</li>
 </ul>
 ]]></content:encoded>
         </item>
