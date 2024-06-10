@@ -4,7 +4,7 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 16:38:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 16:43:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
         <item>
@@ -117,6 +117,10 @@ La conjecture suggère que, quel que soit le nombre entier positif de départ, l
 <li>Assurez-vous que la somme des éléments de chaque rangée, chaque colonne et des deux diagonales principales est égale.</li>
 </ul>
 <hr />
+<p><strong>Exercice : Simulation de la loi géométrique</strong></p>
+<p>La loi géométrique est une loi de probabilité discrète qui modélise le nombre d’essais nécessaires pour obtenir un succès dans une série d’essais de Bernoulli indépendants.</p>
+<p>On vous demande de simuler cette loi en utilisant le module random de Python. Plus précisément, vous devez écrire une fonction simulation_geom(p: float) -&gt; int qui prend en argument la probabilité p de succès à chaque essai (un nombre réel entre 0 et 1) et qui renvoie le nombre d’essais nécessaires pour obtenir un succès.</p>
+<p>Vous pouvez supposer que la fonction random() du module random renvoie un nombre réel aléatoire uniformément distribué entre 0 et 1.</p>
 ]]></content:encoded>
         </item>
         <item>
