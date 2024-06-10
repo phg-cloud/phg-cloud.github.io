@@ -4,7 +4,7 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 19:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 19:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
         <item>
@@ -78,9 +78,18 @@
 <li>Que peut-on dire des matrices non diagonales et n’ayant qu’une seule valeur propre complexe sur <span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="double-struck">C</mi></mrow><annotation encoding="application/x-tex">\mathbb C</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68889em;vertical-align:0em"></span><span class="mord mathbb">C</span></span></span></span></span></li>
 <li>Quels exemples de famille libres de vecteurs connaissez vous ?</li>
 </ul>
-<h1 id="à-compléter">à compléter !</h1>
+<h1 id="surfaces-de-lespace">Surfaces de l’espace</h1>
 <ul>
-<li></li>
+<li>Qu’est-ce qu’une surface paramétrée ?</li>
+<li>Comment définir un point régulier sur une surface paramétrée ?</li>
+<li>Qu’est-ce qu’un plan tangent en un point régulier d’une surface paramétrée ?</li>
+<li>Comment définir un vecteur normal à une surface en un point régulier ?</li>
+<li>Qu’est-ce qu’une surface définie par une équation cartésienne ?</li>
+<li>Comment définir un point régulier sur une surface définie par une équation cartésienne ?</li>
+<li>Comment définir une courbe paramétrée tracée sur une surface ?</li>
+<li>Qu’est-ce qu’une surface d’équation z = f (x, y) où f est une fonction de classe 1 ?</li>
+<li>Qu’est-ce qu’une surface réglée et comment sont définies ses génératrices ?</li>
+<li>Qu’est-ce qu’une surface de révolution et comment sont définis son axe, ses méridiennes et ses parallèles ?</li>
 </ul>
 ]]></content:encoded>
         </item>
