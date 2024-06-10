@@ -4,7 +4,7 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 19:03:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 19:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
         <item>
@@ -40,11 +40,47 @@
 <li>Qu’est-ce que le théorème de projection orthogonale sur un sous-espace de dimension finie ?</li>
 <li>Qu’est-ce-que deux espaces en somme directe orthogonale?</li>
 <li>Comment étudier les isométries vectorielles d’un espace euclidien en dimension 2 ou 3 ?</li>
-<li>Comment est étudié le théorème spectral du point de vue matriciel dans le contexte des espaces euclidiens ?</li>
+<li>Comment est utilisé (et qu’est ce que) le théorème spectral du point de vue matriciel dans le contexte des espaces euclidiens ?</li>
 <li>Qu’est-ce qu’une norme dans un espace euclidien ?</li>
 <li>Comment définir un produit scalaire dans un espace euclidien ? Quelles sont les identités de polarisation ?</li>
 <li>Qu’est-ce qu’une base orthonormée dans un espace euclidien ?</li>
 <li>Qu’est-ce-que l’algorithme de Gram-Schmidt ? Comment calculer la distance à un sous-espace ?</li>
+</ul>
+<h1 id="questions-sur-les-espaces-préhilbertiens-réels">Questions sur les espaces préhilbertiens réels</h1>
+<ul>
+<li>Qu’est-ce qu’un espace préhilbertien réel ?</li>
+<li>Comment est défini le produit scalaire dans un espace préhilbertien réel ?</li>
+<li>Qu’est-ce que la norme associée à un produit scalaire dans un espace préhilbertien réel ?</li>
+<li>Comment est définie la distance dans un espace préhilbertien réel à l’aide de la norme associée à un produit scalaire ?</li>
+<li>Quelle est l’importance de l’inégalité de Cauchy-Schwarz dans les espaces préhilbertiens réels ?</li>
+<li>Qu’est ce que le théorème de Pythagore ?</li>
+<li>Quel est la condition d’existence d’une projection orthogonale sur un sous-espace vectoriel</li>
+<li>Qu’est ce que la distance à un sous-espace vectoriel et comment la calcule-t-on ?</li>
+</ul>
+<h1 id="questions-sur-les-déterminants">Questions sur les déterminants</h1>
+<ul>
+<li>Quelles sont les méthodes de calculs des déterminants matriciels et la relation avec le motif de la matrice</li>
+<li>Comment est défini le déterminant d’un endomorphisme ?</li>
+<li>Quelles sont les propriétés relatives au déterminant d’une matrice vis à vis des opérations classiques ?</li>
+<li>Qu’est ce que le polynôme caractéristique d’une matrice carrée ? Quel est l’utilité de ce concept ?</li>
+<li>Quelle est la relation entre le déterminant et la trace d’un endomorphisme trigonalisable ou sur les matrices à coefficients complexes ?</li>
+<li>Comment est défini le spectre d’un endomorphisme en dimension finie ?</li>
+</ul>
+<h1 id="questions-sur-lalgèbre-linéaire">Questions sur l’algèbre linéaire</h1>
+<ul>
+<li>Qu’est-ce qu’un vecteur propre d’un opérateur linéaire ?</li>
+<li>Comment est défini un sous-espace propre d’un endomorphisme ?</li>
+<li>Qu’est-ce que la diagonalisation d’un opérateur linéaire ?</li>
+<li>Quels sont les critères de diagonalisation à connaître ?</li>
+<li>Qu’est-ce que la trigonalisation et quand peut- on trigonaliser?</li>
+<li>Quel lien faire entre endomorphismes qui commutent et stabilité des sous-espaces propres ?</li>
+<li>Comment calculer la dimension d’un sous-espace propre ? que dire dans le cas des espaces propres associés à une valeur propre simple ?</li>
+<li>Que peut-on dire des matrices non diagonales et n’ayant qu’une seule valeur propre complexe sur <span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="double-struck">C</mi></mrow><annotation encoding="application/x-tex">\mathbb C</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68889em;vertical-align:0em"></span><span class="mord mathbb">C</span></span></span></span></span></li>
+<li>Quels exemples de famille libres de vecteurs connaissez vous ?</li>
+</ul>
+<h1 id="à-compléter">à compléter !</h1>
+<ul>
+<li></li>
 </ul>
 ]]></content:encoded>
         </item>
