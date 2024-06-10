@@ -4,9 +4,26 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 16:43:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 17:25:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[Connaissance du Cours]]></title>
+            <guid>95f27e3941a445baaf24d6d90eb156a3</guid>
+            <pubDate>Mon, 10 Jun 2024 17:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[<h3 id="questions-de-cours-sur-les-séries-entières">Questions de cours sur les séries entières.</h3>
+<ul>
+<li>Qu’est-ce qu’une série entière ? Pouvez-vous donner une définition ?</li>
+<li>Quelle est la différence entre une série entière et une série de puissances ?</li>
+<li>Qu’est-ce que le rayon de convergence d’une série entière ? Comment peut-on le calculer ?</li>
+<li>Qu’est-ce que le théorème d’Abel sur la convergence des séries entières ?</li>
+<li>Pouvez-vous donner un exemple d’une série entière et calculer son rayon de convergence ?</li>
+<li>Qu’est-ce que la formule de Cauchy ? Comment est-elle utilisée dans le contexte des séries entières ?</li>
+<li>Comment peut-on déterminer si une série entière converge ou diverge ?</li>
+<li>Qu’est-ce que la série de Taylor ? Comment est-elle liée aux séries entières ?</li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Exercices basiques]]></title>
             <guid>943f24b973d240b2ba4a6c132f26bf33</guid>
